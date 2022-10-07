@@ -21,7 +21,7 @@ public class TestController {
 	public String getName() {
 		
 		
-		return appName;
+		return "This is App Name :"+appName;
 	}
 	
 }
