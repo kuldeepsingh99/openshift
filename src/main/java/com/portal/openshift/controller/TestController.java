@@ -14,7 +14,7 @@ public class TestController {
 	public String ping() {
 		
 		
-		return "Hello";
+		return "Hello openshift";
 	}
 	
 	@GetMapping("/getapp-name")
