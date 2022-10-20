@@ -21,7 +21,7 @@ public class TestController {
 	public String getName() {
 		
 		
-		return "This is App Name webhook test:-"+appName;
+		return "This is App Name webhook:-"+appName;
 	}
 	
 }
